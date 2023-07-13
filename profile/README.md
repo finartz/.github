@@ -21,8 +21,6 @@ Finartz her zaman FinTek sektöründeki en güncel trendleri takip ederek farkl�
 
 Finartz, finansal teknoloji alanında inovasyon ve mükemmeliyeti hedefleyen bir girişim olarak yola çıktı. Müşterilerimize sıra dışı yazılım çözümleri sunma konusunda araştırma ve geliştirme alanında liderlik yapmaktayız. Bu hedeflere ulaşmak için ise yetenekli ve dinamik çalışanların yol arkadaşlığına daima ihtiyacımız var.🙌
 
-Eğer seni yeni meydan okumalarla karşı karşıya bırakacak, teknik bilgini genişletecek ve seni ileriye taşıyacak bir ortam arıyorsan, doğru yerdesin!✅
-
 Seni şirketimize katılmaya davet etmekten büyük bir mutluluk duyuyoruz. Eğer bu fırsat seni heyecanlandırıyorsa, detaylı bilgi edinmek ve başvurunu gerçekleştirmek için aşağıdaki linke tıklaman yeterli.🌐👇
 
 Finartz ailesine katılman için sabırsızlanıyoruz ve seni gelecekteki başarılarımızın bir parçası olmaya davet ediyoruz!💫
