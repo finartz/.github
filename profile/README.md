@@ -3,7 +3,7 @@
 Herkese merhaba  👋
 
 Finartz her zaman FinTek sektöründeki en güncel trendleri takip ederek farklı ihtiyaçları anlamaya odaklanan bir şirket.
-Ürün ve hizmetlerimizi uzmanlık alanlarına göre sınıflandırarak sektördeki çeşitli paydaşlara en uygun çözümleri geliştirme hedefimizi sürdürüyoruz.
+Ürün ve hizmetlerimizi uzmanlık alanlarına göre sınıflandırarak sektördeki çeşitli paydaşlara en uygun çözümleri geliştirme hedefimizi daima sürdüreceğiz!
 
 🎯   Secureartz, Payartz ve Finartz Connect markalarımızla finansal teknoloji alanında dijital dönüşümü şekillendirme misyonunu üstleniyoruz.Her bir markamız, sektördeki ürün grubumuzun bir parçası olarak öne çıkıyor. 
 
