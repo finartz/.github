@@ -1,18 +1,18 @@
 # Biz Kimiz?
 
-Herkese merhaba👋
+Herkese merhaba  👋
 Finartz olarak her zaman FinTek sektöründeki en güncel trendleri takip ederek farklı ihtiyaçları anlamaya odaklanıyoruz.
 Ürün ve hizmetlerimizi uzmanlık alanlarına göre sınıflandırarak sektördeki çeşitli paydaşlara en uygun çözümleri geliştirme hedefimizi sürdürüyoruz.
 
-🎯 Secureartz, Payartz ve Finartz Connect markalarımızla finansal teknoloji alanında dijital dönüşümü şekillendirme misyonunu üstleniyoruz.Her bir markamız, sektördeki ürün grubumuzun bir parçası olarak öne çıkıyor. 
+🎯   Secureartz, Payartz ve Finartz Connect markalarımızla finansal teknoloji alanında dijital dönüşümü şekillendirme misyonunu üstleniyoruz.Her bir markamız, sektördeki ürün grubumuzun bir parçası olarak öne çıkıyor. 
 
-🚀 Secureartz bünyesinde sunduğumuz 3D Secure ürünlerimizle çevrimiçi işlemlerde güçlü kimlik doğrulama süreçlerine yönelik çözümlerimizi sürekli olarak geliştiriyoruz. 
+🚀   Secureartz bünyesinde sunduğumuz 3D Secure ürünlerimizle çevrimiçi işlemlerde güçlü kimlik doğrulama süreçlerine yönelik çözümlerimizi sürekli olarak geliştiriyoruz. 
 
-🚀 Payartz markası altında her türden kuruluş için kullanıcı dostu ve güvenli e-para ile ödeme yazılımlarını sunan bir ödeme teknolojileri platformu geliştirdik. Payartz’ın verimlilik ve üstün başarı standartlarına dayalı ekip yapısıyla şirketlerin doğru yazılım çözümlerini ve ödeme teknolojilerine odaklı yazılım geliştirme partnerliği modelini kolaylıkla benimsemelerini sağlıyoruz.  
+🚀   Payartz markası altında her türden kuruluş için kullanıcı dostu ve güvenli e-para ile ödeme yazılımlarını sunan bir ödeme teknolojileri platformu geliştirdik. Payartz’ın verimlilik ve üstün başarı standartlarına dayalı ekip yapısıyla şirketlerin doğru yazılım çözümlerini ve ödeme teknolojilerine odaklı yazılım geliştirme partnerliği modelini kolaylıkla benimsemelerini sağlıyoruz.  
 
-🚀 Finartz Connect markamızla FinTek’ler ve büyük ölçekli e-ticaret şirketleri için özel projeler geliştiriyoruz. Ödeme ve süreç operasyonları, alıcı ve satıcı arasındaki iletişim altyapısı, kampanya altyapısı gibi farklı alanlarda müşterilerimizin taleplerine yönelik geliştirmelerle devam ediyoruz. 
+🚀   Finartz Connect markamızla FinTek’ler ve büyük ölçekli e-ticaret şirketleri için özel projeler geliştiriyoruz. Ödeme ve süreç operasyonları, alıcı ve satıcı arasındaki iletişim altyapısı, kampanya altyapısı gibi farklı alanlarda müşterilerimizin taleplerine yönelik geliştirmelerle devam ediyoruz. 
 
-👫 Finartz Connect bünyesinde ihtiyaç halinde uzman ekipler kurarak müşterilerimize özelleştirilmiş çözümler sunuyoruz. Bu sayede hizmet verdiğimiz alanların çeşitliliği de sürekli olarak genişliyor.
+👫   Finartz Connect bünyesinde ihtiyaç halinde uzman ekipler kurarak müşterilerimize özelleştirilmiş çözümler sunuyoruz. Bu sayede hizmet verdiğimiz alanların çeşitliliği de sürekli olarak genişliyor.
 
 ## Bize Katılmak İster Misin?
 
