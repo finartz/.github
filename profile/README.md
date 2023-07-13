@@ -1,5 +1,6 @@
+
 <div align="center">
-  <img height="200" src="profile/Varlık 21@2x.png/>
+  <img height="200" src="profile/Varlık 21@2x.png"/>
 </div>
 
 # Biz Kimiz?
