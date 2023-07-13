@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://lh3.googleusercontent.com/2_1uOo8hVAq0YZDcBzNs8Aat_xshDqKmXgmljozpgzrZ4g_eLm4kBJfQiJ3tN40eh940Uzp12AITtsUa9I2anvI=w16383"  />
+  <img height="200" src="https://drive.google.com/file/d/1_vx_MMFAQcm_P7aM1XHv9fIS4zyz-wdC/view?usp=sharing"  />
 </div>
 
 # Biz Kimiz?
