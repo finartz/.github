@@ -1,7 +1,8 @@
 
 <div align="center">
-  <img height="200" src="profile/Varlık 21@2x.png"/>
+  <img height="200" src="[profile/Varlık 21@2x.png](https://github.com/finartz/.github/blob/main/profile/Varl%C4%B1k%2021%402x.png)"/>
 </div>
+
 
 # Biz Kimiz?
 
