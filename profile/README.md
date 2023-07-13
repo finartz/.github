@@ -1,4 +1,4 @@
-## Biz Kimiz?
+# Biz Kimiz?
 
 Finartz olarak her zaman FinTek sektöründeki en güncel trendleri takip ederek farklı ihtiyaçları anlamaya odaklandık. Ürün ve hizmetlerimizi uzmanlık alanlarına göre sınıflandırarak sektördeki çeşitli paydaşlara en uygun çözümleri geliştirme hedefimizi sürdürüyoruz. Secureartz, Payartz ve Finartz Connect markalarımızla finansal teknoloji alanında dijital dönüşümü şekillendirme misyonunu üstleniyoruz. 
 Her bir markamız, sektördeki ürün grubumuzun bir parçası olarak öne çıkıyor. 
@@ -7,7 +7,7 @@ Payartz markası altında her türden kuruluş için kullanıcı dostu ve güven
 Finartz Connect markamızla FinTek’ler ve büyük ölçekli e-ticaret şirketleri için özel projeler geliştiriyoruz. Ödeme ve süreç operasyonları, alıcı ve satıcı arasındaki iletişim altyapısı, kampanya altyapısı gibi farklı alanlarda müşterilerimizin taleplerine yönelik geliştirmelerle devam ediyoruz. Finartz Connect bünyesinde ihtiyaç halinde
 uzman ekipler kurarak müşterilerimize özelleştirilmiş çözümler sunuyoruz. Bu sayede hizmet verdiğimiz alanların çeşitliliği de sürekli olarak genişliyor.
 
-##Bize Katılmak İster Misin?
+## Bize Katılmak İster Misin?
 
 Finartz, finansal teknoloji alanında inovasyon ve mükemmeliyeti hedefleyen bir girişim olarak yola çıktı. Müşterilerimize sıra dışı yazılım çözümleri sunma konusunda araştırma ve geliştirme alanında liderlik yapmaktayız. Bu hedeflere ulaşmak için ise yetenekli ve dinamik çalışanların yol arkadaşlığına daima ihtiyacımız var.
 Eğer seni yeni meydan okumalarla karşı karşıya bırakacak, teknik bilgini genişletecek ve seni ileriye taşıyacak bir ortam arıyorsan, doğru yerdesin!!! 
