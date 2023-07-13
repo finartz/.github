@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="200" src="https://lh3.googleusercontent.com/2_1uOo8hVAq0YZDcBzNs8Aat_xshDqKmXgmljozpgzrZ4g_eLm4kBJfQiJ3tN40eh940Uzp12AITtsUa9I2anvI=w16383"  />
+</div>
+
 # Biz Kimiz?
 
 Herkese merhaba  👋
@@ -25,6 +29,31 @@ Seni şirketimize katılmaya davet etmekten büyük bir mutluluk duyuyoruz. Eğe
 
 Finartz ailesine katılman için sabırsızlanıyoruz ve seni gelecekteki başarılarımızın bir parçası olmaya davet ediyoruz!💫
 
+###
+
+<p align="center">Sosyal Medya Hesaplarımız</p>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
+
+###
+
+<p align="center">Medium Yazılarımız</p>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&username=finartz_com" alt="Layout with last medium posts"  />
+</div>
+
+###
 
 
 
