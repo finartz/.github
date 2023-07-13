@@ -30,7 +30,7 @@ Finartz, finansal teknoloji alanında inovasyon ve mükemmeliyeti hedefleyen bir
 
 Seni şirketimize katılmaya davet etmekten büyük bir mutluluk duyuyoruz. Eğer bu fırsat seni heyecanlandırıyorsa, detaylı bilgi edinmek ve başvurunu gerçekleştirmek için aşağıdaki linke tıklaman yeterli.🌐👇
 
-<a href="https://github.com/finartz/Recruitment"><img src="https://www.shutterstock.com/image-vector/join-us-button-red-eps10-260nw-2116148291.jpg"></a>
+<a  style="width:50px;height:50px;" href="https://github.com/finartz/Recruitment"><img src="https://www.shutterstock.com/image-vector/join-us-button-red-eps10-260nw-2116148291.jpg" ></a>
 
 
 
