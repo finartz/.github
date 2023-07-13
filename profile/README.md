@@ -34,7 +34,7 @@ Seni şirketimize katılmaya davet etmekten büyük bir mutluluk duyuyoruz. Eğe
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://thumbs.dreamstime.com/b/join-us-220785058.jpg" href="https://github.com/finartz/Recruitment" />
+  <a href="https://github.com/finartz/Recruitment"><img src="https://thumbs.dreamstime.com/b/join-us-220785058.jpg" width="240" height="110"></a>
 </div>
 
 ###
